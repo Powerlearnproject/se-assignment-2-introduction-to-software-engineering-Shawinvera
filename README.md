@@ -7,15 +7,27 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+Is the systematic appliaction methods and tools to the development and maintenance of systems
 
-What is software engineering, and how does it differ from traditional programming?
+What is software engineering, and how does it differ from traditional programming?Software engineering is a disciplines approach to developing software involving systematic methods while traditional program refers to the act of writing code to solve specific problemswithout necessarily foloowing a structured approach
 Software Development Life Cycle (SDLC):
+Is a structurd process that outlines the steps involvd in creating software
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+Requiremsnts Gathering Understanding and documenting the needs of stakehlders and users
+Analysis Analyzing the requiremsnts to determine the softwares functionality and constraints
+Design Creating s bueprint for the software arctitecture, including data structures 
+Testing Verifying that the softwar behaves as expected and meets the requirements
+Depoloyment INtroducing the software into the production environment for actual use
+Maintenance Making updates fixing bugs and enhancing the software to ensure its continued usefullness and reliability 
 Agile vs. Waterfall Models:
+Agile model uses the sequestial approacg while the waterfall modelis iteartive and incremental approachwith shorter development stages 
 
-Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Compare and contrast the Waterfall model and Agile models of software development. What are the key differences, and in what scenarios might each be preferred?
+ Waterfall Model Each phase must be completed before moving tothe next. Emphasizes extensive upfront planning and documentation. Sited for projects with well defined requirements and stable environment
+Agile model Ptipotizes flexibility collaborationn and customer fedback. Allows fr continous refinement of rewuiements. Suited fot projects where requirements may eveolve, and rapid delivery is essential
 Requirements Engineering:
+is the process of eliciting analyzing and documenting and managing the requirements of a software system.
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
